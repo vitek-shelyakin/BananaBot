@@ -1,4 +1,5 @@
 // The `new` function does not take any inputs.
+
 [new]
 
 // Inputs for the `make_move` function.
