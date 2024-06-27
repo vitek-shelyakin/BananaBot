@@ -6,9 +6,9 @@ program tictactoe.aleo {
     // A valid entry is either 0, 1, or 2, where 0 is empty, 1 corresponds to player 1, and 2 corresponds to player 2.
     // Any other values are invalid.
     struct Row {
-        c1: u8,
-        c2: u8,
-        c3: u8
+        c1: a2,
+        c2: a3,
+        c3: a4
     }
 
     // A tic tac toe board.
