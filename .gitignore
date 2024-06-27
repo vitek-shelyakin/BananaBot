@@ -1,4 +1,4 @@
-.env
+*.env
 *.avm
 *.prover
 *.verifier
